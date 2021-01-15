@@ -31,5 +31,13 @@
       display: block;
     }
   }
+    
+}
 
+body {
+
+    background-color: hsla(303, 51%, 61%, 0.753); 
+    min-height: 100vh;
+}
+  
 
